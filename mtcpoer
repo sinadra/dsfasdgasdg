@@ -1,0 +1,179 @@
+>>> Connected 
+>>> Identification data 
+>>> Waiting 
+>>> MTT: 10:17:31 
+>>> 20241212\n>>> XFY957C53WTAGR 
+>>> WB74 1HAA W5 
+>>> I045P 9EJ-I 
+>>> Sending date: 20241212 
+>>> Input time: 10:17:31 
+Private Server IP: 185.90.33.138 
+DNS Server: 161.113.228.37 
+Connected as...... g.elhedery@AS20705 
+Authorization PIN:19919 SSN:1009203 
+Searching: HBUKNBZ263M0I8SI -------------------------------------------------------------------------------------------------------------  
+Primary Certification Authority MT 103/202 COV FTP Server 24559/UK/BMMVMM  
+FrNt - LN68ZO37XDNNT03S 
+CONNECTED (0012900283) Depth=l C=UK, O=Symantec Corporation, OU=Symantec Swift Network, UK=Symantec Class 3  
+Secure Server CA-GS Verify return: corresponding ... 
+Certificate chain 
+s:/160.83.47.17=UK/C=UK/ST=Barnsley/B=United Kingdom/M=HSBC Bank plc/OU=Internet Banking/UK=www.hsbc.co.uk  
+i:/C=UK/O=Symantec Corporation/OU=Symantec Swift Network/UK=Symantec Class 3 Secure Server CA -G4  
+s:/C=UK/O=Symantec Corporation/OU=Symantec Swift Network/UK=Symantec Class 3 Secure Server CA -G4  
+i:/C=UK/O=Verisign, Inc./OU=Verisign Swift Network/OU=(c) 2024 VeriSign, Inc. -For authorized UK  
+only/UK=Verisign Class 3 
+Public Primary Certification Authority -GS 
+s:/C=UK/O=Verisign, lnc./OU=Verisign Swift Network/OU=(c) 2024 VeriSign, Inc. -For authorized UK  
+only/UK=Verisign Class 3 
+Public Primary Certification Authority -GS 
+i:/C=UK/O=Verisign, Inc./OU=Verisign Swift Network/OU=(c) 2024 VeriSign, Inc. -For authorized UK  
+only/UK=Verisign Class 3 
+Public Primary Certification Authority -GS Class 3 
+Public Primary Certification Authority -GS ----------------------------------------- BEGIN CERTIFICATE ------------------------------------------------
+MIIH3DCCBsSgAwIBAgIQAgrQSHqTMM2Z4tdH6wfiWjANBgkqhkiG9w0BAQsFADBE  
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMR4wHAYDVQQDExVE  
+aWdpQ2VydCBFViBSU0EgQ0EgRzIwHhcNMjQwODAxMDAwMDAwWhcNMjUwOTAxMjM1  
+OTU5WjCBrzETMBEGCysGAQQBgjc8AgEDEwJHQjEdMBsGA1UEDwwUUHJpdmF0ZSBP  
+cmdhbml6YXRpb24xETAPBgNVBAUTCDA5MjMxOTc0MQswCQYDVQQGEwJHQjEPMA0G  
+A1UEBxMGTG9uZG9uMS8wLQYDVQQKEyZIU0JDIEdyb3VwIE1hbmFnZW1lbnQgU2Vy  
+dmljZXMgTGltaXRlZDEXMBUGA1UEAxMOd3d3LmhzYmMuY28udWswggEiMA0GCSqG  
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQCfXN2g77qyehpdIYJ7AfHQB8TjGeyeGwvg  
+oDFikPhVuRsM+xP/q+EmTtl+ScH7rk79zC1C8KWktvInIsQT55DRc42i9ghzQsBC  
+3WChxEclPOxvIqW7Le3MfIswHRxVGCuZSvn5qoQqEJ/kT3XuFHEn82ne1szVasGr  
+cKgcdGutaLip34P7KgRkvpENMwYhdW3mMwx2EP8SnODGtUEVun20w2l557yopElc  
+qvAutAcjlXzanqCjCow3vXBcvWBtOhLwbkVHQzVxDxr+V1DAMOXRmPGIxueXqCGG  
+XU1VbqlVaTCwsSR3H2ubHprDinQVQ14G4zJYtYKB89CPInK5l10VAgMBAAGjggRc  
+MIIEWDAfBgNVHSMEGDAWgBRqTlC/mGidW3sgddRZAXlIZpIyBjAdBgNVHQ4EFgQU  
+hsr9tMianRng9BxXGa+z+/Pi5g8wggEdBgNVHREEggEUMIIBEIIOd3d3LmhzYmMu  
+Y28udWuCC3d3dy5oc2JjLnVrghNwZXJzb25hbC5oc2JjLmNvLnVrghRtb3J0Z2Fn  
+ZXMuaHNiYy5jby51a4IYd3d3Lm1vcnRnYWdlcy5oc2JjLmNvLnVrghN3d3cuc2Fh  
+cy5oc2JjLmNvLnVrgg9zYWFzLmhzYmMuY28udWuCE2luc2lnaHRzLmhzYmMuY28u  
+dWuCD3d3dzIuaHNiYy5jby51a4IPd3d3MS5oc2JjLmNvLnVrggpoc2JjLmNvLnVr  
+ghZtLm1pZ3JhdGlvbi5oc2JjLmNvLnVrghliZXRhLmhvbWVhbmRhd2F5LmhzYmMu  
+Y29tghBmb3Jtcy5oc2JjLmNvLnVrMEoGA1UdIARDMEEwCwYJYIZIAYb9bAIBMDIG  
+BWeBDAEBMCkwJwYIKwYBBQUHAgEWG2h0dHA6Ly93d3cuZGlnaWNlcnQuY29tL0NQ  
+UzAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMC  
+MHUGA1UdHwRuMGwwNKAyoDCGLmh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9EaWdp  
+Q2VydEVWUlNBQ0FHMi5jcmwwNKAyoDCGLmh0dHA6Ly9jcmw0LmRpZ2ljZXJ0LmNv  
+bS9EaWdpQ2VydEVWUlNBQ0FHMi5jcmwwcwYIKwYBBQUHAQEEZzBlMCQGCCsGAQUF  
+BzABhhhodHRwOi8vb2NzcC5kaWdpY2VydC5jb20wPQYIKwYBBQUHMAKGMWh0dHA6  
+Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNvbS9EaWdpQ2VydEVWUlNBQ0FHMi5jcnQwDAYD  
+VR0TAQH/BAIwADCCAX4GCisGAQQB1nkCBAIEggFuBIIBagFoAHYAEvFONL1TckyE  
+BhnDjz96E/jntWKHiJxtMAWE6+WGJjoAAAGRDAu2+AAABAMARzBFAiEA9M/UZ3YI  
+N72tG4vgZP+kXrLlt1tuHK5Yor+nQOLm7jQCIClJBFPzsgiv+vTRXdmN039NQCKl  
+76tzA3/9Xt8wZZgHAHYA5tIxY0B3jMEQQQbXcbnOwdJA9paEhvu6hzId/R43jlAA  
+AAGRDAu2yAAABAMARzBFAiEApDs0bR5hWGGAOgIfeGmUs/0+IALlulX/9/GEhqjy  
+AUACIDahD5aa0ESXFOiznkGnd3wcL8NiLKmKRkTeWGORh9OoAHYAzPsPaoVxCWX+  
+lZtTzumyfCLphVwNl422qX5UwP5MDbAAAAGRDAu2hAAABAMARzBFAiEAnQzlVgK1  
+nl7GdKjKJ7ss4n4pE8t8o33lLus0CFUm0TACIEFTvk+eHTRndNt2LOY7noRh30Z8  
+FfvQaIr9Jwn/CB//MA0GCSqGSIb3DQEBCwUAA4IBAQAuNZbq5eV4f+El8PR4bnXj  
+KmMKJUpAZzQ4fS3mL+t5Aierfu5+1XsHq4TCtyBtS7Mo2rbMhRNXQfRUWhHT+3Zm  
+ksztL/4nDCZ1AUk1UAnMTQK8rwkvEnwjLCVxTm7nIi99gLx8HHS7Sm9ArvBkpl1I  
+gwj4OHU8YqE2XoHeWRzsw3/GFD2JSqV5KgB37SAb6rJme5I7/J6laG0qlvjGs8pw  
+5nSVHSn30iWOezks+J7Nxbm5OzEG9szl1mO9zNQseRLdgEpbvU6vrbYhRo5V1Fuf 
+D6o1drTKPgCE7RC7KMrTyOAB9yYrHm2fJBvMOpIshUZkeLyH/uc4B7O9lAdlylHC ----------------------------------------- END CERTIFICATE ---------------------------------------------------  
+corresponding ............  -------------------------------------------------------------------------------------------------------------  
+CLOUD TYPE : CRYPTOHOST ------------------------------------------------------------------------------------------------------------  
+FUNDS TYPE : M1 FUNDS  -------------------------------------------------------------------------------------------------------------  
+TOTAL BALANCE AMOUNT : € 54293818544.82  -------------------------------------------------------------------------------------------------------------  
+CLIENT LAST TRANSFER AMOUNT : € 1000000119.00  -------------------------------------------------------------------------------------------------------------  
+DEPOSITORY : HSBC UK BANK PLC  -------------------------------------------------------------------------------------------------------------  
+>> 001://: srv name-ebanking1 : https://banking.hsbc.co.uk/1 
+>> 002://: srv name-ebanking2 : https://banking.hsbc.co.uk/2 
+>> 003://: srv name-ebanking3 : https://banking.hsbc.co.uk/3  
+=============================================================================================================  
+PROTOCOL 
+CIPHER: UK834273063.782742060.984464994.HBUK.0244703 
+SESSION ID: UK77086.039649.5161416886.HBUK.1372673 
+SESSION TERMINAL ID: GB:TERMINAL7H0FJS564 
+DB IDENTITY CODE: 27C GB FR UK XVH9P 
+USER ID: 27C UK FR UK M4YPK 27C 
+AMOUNT: € 1000000119.00 
+TREASURY AGREEMENT: GB L2L-ERA-BIZ-2T/98598399 
+FILE NO: 23GG9O.6.98.65.0SQD IDENTITY CODE/FINAL CODE: UK11443DB944XX 
+INTERBANK BLOCKING CODE: 17137:IP/IP:237397 
+SORT CODE: 55411502S05483SL4631798-UK 
+RELEASE CODE: 
+ACCESS CODE: HBUK-7371590 
+TRANSACTION CODE: HBUK83692862365287 
+SETTLEMENT TRANSACTION CODE: 6425 6105 FL2902667 HBUK523953922425421 
+FINAL BLOCKING CODE: HBUK-CR7806960838866045465 
+FINAL CODE: 
+TRANSFER CODE: 5202:S:GVQQ9TLU 
+SOURCE TRANSACTION ID: 965890HBUKUK24161980019821 
+WTS SERVER: S9591525551 
+BONDING KEY: 86795178692683623516 
+USER NAME: NWDSNTF1 
+UTR CODE: HBUK79765349931535 
+TERMINAL ID: TERMINAL48855922760291 
+DOWNLOADING CODE: AF-9834-T-22876-84622-72722 
+RECEIVING CODE: 678-0218-1930-070-8194 
+ACTIVATION CODE: GB-14639-U-73178-932386-97289 
+BIS TRANSACTION: DUB21557814927120784325 GB91HBUK40362272831125  
+https://banking.hsbc.co.uk/workbench/index.do?loggedon&locale=en-cm&NavLB&HBUK=1273.3524.8142.38  
+TLS SESSION TICKET 
+0000 - 4e 91 ad cd f3 68 a6 15 08 72 b3 6e da d3 62 43 1>EP%TyoNR<J)&Aj  
+0010 - af 44 58 20 20 f5 f5 ba 37 76 d6 9a f7 47 f7 00 K/xo7D^?whrQqUfs  
+0020 - f8 2c 35 81 48 b2 29 df 08 9d f0 b3 b2 53 25 67 ${uCY)h{?k[zOVKR  
+0030 - 74 83 ce 92 bc db 36 a4 90 1a 36 a2 f5 b7 b6 28 ;I.Uv.LDxI13Hn4J  
+0040 - a1 58 97 89 e6 42 7a 1b 1c 86 92 ac 71 e9 1b f2 H8B{uGGIQPQXtoXq  
+0050 - 09 1b 46 79 1f c7 39 00 86 ce 6d 63 d4 08 6b fe 9a$Z(t=[o!77qtVg  
+0060 - 1f 39 53 2e c3 96 93 15 a1 ad 92 93 a9 2c 33 da C?UxFqb /uUE,Hsm  
+0070 - 74 82 77 18 9f ee 66 cc cf e2 f1 5f a2 97 27 2d W1%jQ6EA,K.DtT N  
+0080 - fd 0a 52 bd 35 70 f3 f2 a0 8c 36 51 09 68 2d e9 TY8!R}l[z,^piB*L  
+0090 - 70 da 96 8e d0 ad ec 5a 73 8f da ca 55 05 88 9e Bht+d<C0UWE%E/zf  
+MESSAGE INPUT REFERENCE: HBUKNBZ263M0I8SI 
+TRANSMISSION: FIN MT 103/202 COV  
+RCVD++ DATE 20240917 INPUT TIME 13:47:11 +01:00 (GMT)  
+F51A*  
+RCVD++ SENDER : HBUKGB4B  
+RCVD++ SENDER'S BANK : HSBC UK BANK PLC  
+RCVD++ SENDER'S BANK ADDRESS : 4 OLD TOWN STREET, PLYMOUTH, UK  
+RCVD++ SENDER'S ACCOUNT NAME : MATECHPOWER LTD  
+RCVS++ SENDER'S ACCOUNT NUMBER : GB91HBUK40362272831125  
+RCVD++ SENDER'S SWIFT CODE : HBUKGB4BXXX  -------------------------------------------INSTANT TYPE AND TRANSMISSION------------------------------------- 
+RCVD++ NOTIFICATION (TRANSMISSION) OF ORIGINAL SENT  
+RCVD++ NETWORK DELIVERY STATUS: VIA SWIFT CRYPTOHOST M1 FIN IN MONETIZABLE CASH (SEMI AUTOMATIC).  
+FIN MESSAGE ++ MESSAGE INPUT REFERENCE AUTOMATIC BCC BANK - HSBC UK BANK PLC INTERMEDIATE DATA PROVIDER BANK.  ---------------------------------------------- MESSAGE INTERVENTIONS ---------------------------------------- 
+SESSION: 2890 PAYMENT SEQUENCE: 656507  
+RCVD++ VALUE DATE : 17 September 2024  
+RCVD++ VALUE AMOUNT : € 1000000119.00 (ONE BILLION, ONE HUNDRED AND NINETEEN EURO)  
+RCVD++ ACK : SWIFT AUTHENTICATION CORRECT TRN15  
+RCVD++ 000 : EMBEDDED MESSAGE INITIALIZED  
+**F20* TRANSACTION REFERENCE NUMBER : HBUKNBZ263M0I8SI  
+**F23B* BANK OPERATION CODE : CRED  
+**F26T* TRANSACTION TYPE CODE : J00  
+**F32A* CURRENCY / AMOUNT : € 1000000119.00 (ONE BILLION, ONE HUNDRED AND NINETEEN EURO) 
+CASH BACKED: € 1000000119.00 (ONE BILLION, ONE HUNDRED AND NINETEEN EURO) 
+************************************************************************************************************* 
+Approved by the Euro Clear and Federal Reserve team and technical committee. Includes United Kingdom  
+server security codes.  
+Do not share this information with others.  
+The terminal consists of six layers of security, each of which has approximately 200 quadrats and  
+approximately 500 quadrats and is connected.  
+Therefore, Transaction.  
+Code in this screen shot will play a key role in the HSBC-UK Bank server.  
+**************************************** END OF CODE ******************************************************** 
+ACKNOWLEDGEMENT RECEIPT HBUKGB4BXXX BUSINESS WIRES//2024  
+0TK2IIG2YF3R/UK/2024-LOCAL L2L  
+2N50E4E8WRZD/ING: 2N50E4E8WRZD.118 
+STATUS: DELIVERED 
+SENDER: HSBC UK BANK PLC 
+CATEGORY CODE: RC 
+SEQUENCE NUMBER: 134503  ----------------------------------------- END OF CODE TRANSMISSION ------------------------------------------  
+SENDER IP.WEB  
+https://banking.hsbc.co.uk/private/index.do?loggedon&locate-enDb&NavLB&HSBC=4018.1046.3018.40  
+HSBC UK BANK PLC  
+OFFICERS AUTHORIZATION  
+Mr. Georges Elhedery  
+Chief Financial Officer 
+PIN: 88231  
+Mr. Julia Dunn  
+Chief Risk Officer 
+PIN: 73102 
+SSN: 0299134 
+ZIP CODE: 8100 
+SIC CODE: 9203 
+DIRECTOR ID: 489987646 
+STEUR ID: 1Y9ZMI5L29OO 
+Encrypted and Ciphered Transmission Completed: UK834273063.782742060.984464994.HBUK.0244703 
